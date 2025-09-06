@@ -1,6 +1,6 @@
 /* Replace Logo with smegflix logo, this should be the last line in CSS */
 :root {
-    --logo: url("https://i.ibb.co/xq8MJGrC/smeagflix.png");
+    --logo: url("https://i.ibb.co/d4qFQvV7/smeagflix1.png");
 }
 
 .pageTitleWithDefaultLogo {
@@ -17,4 +17,5 @@
 
 #loginPage .manualLoginForm:not(.hide) h1.sectionTitle::before {
   background-size: 100% !important;
+
 }
